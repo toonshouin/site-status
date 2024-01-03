@@ -19,7 +19,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: "ToonStoryTime (ToonNongAeoy)'s Status Sites."
-  introTitle: "Welcome to **ToonStoryTime (ToonNongAeoy)'s Status Sites!**/l."
+  introTitle: "Welcome to **ToonStoryTime (ToonNongAeoy)'s Status Sites!**."
   introMessage: "This status page will show status of all of the sites avaliable in ToonNongAeoy's Studio and Project that I made. You can check using **this site** or on the [**Github Repository**](https://github.com/$OWNER/$REPO) at the top. In the meanwhile, You can have some cookies right here. 🍪🍪"
   navbar:
     - title: Status
