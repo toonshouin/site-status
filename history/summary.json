@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.toonstorytime.me.ico",
     "slug": "homelab-cloudflare",
     "status": "down",
-    "uptime": "97.29%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "97.29%",
-    "uptimeMonth": "97.29%",
-    "uptimeYear": "97.29%",
+    "uptime": "95.50%",
+    "uptimeDay": "94.94%",
+    "uptimeWeek": "95.50%",
+    "uptimeMonth": "95.50%",
+    "uptimeYear": "95.50%",
     "time": 6206,
     "timeDay": 2387,
     "timeWeek": 6206,
     "timeMonth": 6206,
     "timeYear": 6206,
     "dailyMinutesDown": {
-      "2024-01-06": 0,
+      "2024-01-06": 73,
       "2024-01-05": 0,
       "2024-01-04": 105
     }
@@ -74,7 +74,7 @@
     "timeMonth": 713,
     "timeYear": 713,
     "dailyMinutesDown": {
-      "2024-01-06": 0,
+      "2024-01-06": 73,
       "2024-01-05": 1440,
       "2024-01-04": 1440,
       "2024-01-03": 1013
