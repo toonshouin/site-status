@@ -4,19 +4,19 @@
     "url": "https://toonstorytime.me",
     "icon": "https://icons.duckduckgo.com/ip3/toonstorytime.me.ico",
     "slug": "main-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 196,
-    "timeDay": 346,
-    "timeWeek": 225,
-    "timeMonth": 224,
+    "timeDay": 288,
+    "timeWeek": 219,
+    "timeMonth": 222,
     "timeYear": 196,
     "dailyMinutesDown": {
-      "2024-06-20": 0
+      "2024-06-20": 9
     }
   },
   {
