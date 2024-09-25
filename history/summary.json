@@ -4,9 +4,9 @@
     "url": "https://toonstorytime.me",
     "icon": "https://icons.duckduckgo.com/ip3/toonstorytime.me.ico",
     "slug": "main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 991,
     "timeMonth": 891,
     "timeYear": 413,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-25": 0
+    }
   },
   {
     "name": "Tree Site",
     "url": "https://tree.toonstorytime.me",
     "icon": "https://icons.duckduckgo.com/ip3/tree.toonstorytime.me.ico",
     "slug": "tree-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 202,
     "timeMonth": 192,
     "timeYear": 189,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-25": 0
+    }
   },
   {
     "name": "Homelab (Cloudflare)",
@@ -42,12 +46,12 @@
     "slug": "homelab-cloudflare",
     "status": "up",
     "uptime": "95.75%",
-    "uptimeDay": "85.11%",
+    "uptimeDay": "86.39%",
     "uptimeWeek": "97.87%",
     "uptimeMonth": "99.47%",
     "uptimeYear": "95.75%",
     "time": 3503,
-    "timeDay": 4230,
+    "timeDay": 5009,
     "timeWeek": 2614,
     "timeMonth": 2607,
     "timeYear": 3503,
@@ -122,11 +126,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/7dd60789cb61.sn.mynetname.net.ico",
     "slug": "homelab-direct",
     "status": "up",
-    "uptime": "84.90%",
+    "uptime": "84.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "84.90%",
+    "uptimeYear": "84.92%",
     "time": 867,
     "timeDay": 1316,
     "timeWeek": 1407,
