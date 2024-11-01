@@ -1,7 +1,7 @@
 url: https://cloud.toonstorytime.me
-status: up
-code: 200
-responseTime: 1757
-lastUpdated: 2024-11-01T11:37:26.473Z
+status: down
+code: 502
+responseTime: 1096
+lastUpdated: 2024-11-01T11:46:29.421Z
 startTime: 2024-01-03T07:06:48.763Z
 generator: Upptime <https://github.com/upptime/upptime>
