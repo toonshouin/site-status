@@ -44,17 +44,17 @@
     "url": "https://cloud.toonstorytime.me",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.toonstorytime.me.ico",
     "slug": "homelab-cloudflare",
-    "status": "up",
+    "status": "down",
     "uptime": "95.02%",
-    "uptimeDay": "0.01%",
+    "uptimeDay": "0.60%",
     "uptimeWeek": "69.87%",
     "uptimeMonth": "87.96%",
     "uptimeYear": "95.02%",
-    "time": 3386,
-    "timeDay": 9704,
-    "timeWeek": 2674,
-    "timeMonth": 2356,
-    "timeYear": 3386,
+    "time": 3382,
+    "timeDay": 5250,
+    "timeWeek": 2549,
+    "timeMonth": 2332,
+    "timeYear": 3382,
     "dailyMinutesDown": {
       "2024-11-18": 828,
       "2024-11-17": 1250,
@@ -130,7 +130,7 @@
       "2024-02-13": 23,
       "2024-02-08": 1037,
       "2024-02-07": 275,
-      "2024-02-04": 53
+      "2024-02-04": 35
     }
   },
   {
@@ -141,7 +141,7 @@
     "status": "down",
     "uptime": "75.47%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "11.63%",
+    "uptimeWeek": "11.55%",
     "uptimeMonth": "26.51%",
     "uptimeYear": "75.47%",
     "time": 904,
@@ -150,7 +150,7 @@
     "timeMonth": 1424,
     "timeYear": 904,
     "dailyMinutesDown": {
-      "2024-11-18": 828,
+      "2024-11-18": 837,
       "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
