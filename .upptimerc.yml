@@ -10,7 +10,7 @@ sites:
   - name: Blog Site.
     url: https://blog.toonstorytime.me
   - name: Resume site.
-    url: resume.toonstorytime.me
+    url: https://resume.toonstorytime.me
   - name: Retro Site.
     url: https://toonnongaeoy.dino.icu
   - name: Hackclub Scrapbook.
@@ -30,7 +30,7 @@ sites:
   - name: n8n
     url: https://n8.aoeyoei.xyz
   - name: Bluesky PDS
-    url: https://bitwarden.toonstorytime.me
+    url: https://bluesky.toonstorytime.me
   - name: Remote Desktop (Site)
     url: https://remdesk.toonstorytime.me
   - name: Remote Desktop
