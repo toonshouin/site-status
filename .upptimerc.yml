@@ -1,5 +1,5 @@
 # Change these first
-owner: toonnoeichi # Your GitHub organization or username, where this repository lives
+owner: toonoeichi # Your GitHub organization or username, where this repository lives
 repo: site-uptime # The name of this repository
 
 sites:
@@ -19,10 +19,8 @@ sites:
     url: http://storyhouseproduction.duckdns.org
   - name: Homelab (VPN)
     url: https://vpn.toonstorytime.me
-  - name: File Server
+  - name: File Server (NAS)
     url: https://cloud.toonstorytime.me
-  - name: Immich Server
-    url: https://img.aoeyoei.xyz
   - name: Bitwarden
     url: https://pass.aoeyoei.xyz
   - name: Whoogle
