@@ -18,15 +18,13 @@ sites:
   - name: Homelab (Direct)
     url: http://storyhouseproduction.duckdns.org
   - name: Homelab (VPN)
-    url: https://vpn.toonstorytime.me
+    check: "tcp-ping"
+    url: vpn.toonstorytime.me
+    port: 1914
   - name: File Server (NAS)
     url: https://cloud.toonstorytime.me
   - name: Bitwarden
     url: https://pass.aoeyoei.xyz
-  - name: Whoogle
-    url: https://gle.aoeyoei.xyz
-  - name: n8n
-    url: https://n8.aoeyoei.xyz
   - name: Bluesky PDS
     url: https://bluesky.toonstorytime.me
   - name: Remote Desktop (Site)
