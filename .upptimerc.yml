@@ -27,12 +27,6 @@ sites:
     url: https://pass.aoeyoei.xyz
   - name: Bluesky PDS
     url: https://bluesky.toonstorytime.me
-  - name: Remote Desktop (Site)
-    url: https://remdesk.toonstorytime.me
-  - name: Remote Desktop
-    check: "tcp-ping"
-    url: remdesk.toonstorytime.me
-    port: 3389
   - name: Speedtest (Homelab)
     url: https://speedtest.toonstorytime.me
     
