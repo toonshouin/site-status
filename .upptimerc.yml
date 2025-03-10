@@ -12,7 +12,7 @@ sites:
   - name: Resume site.
     url: https://resume.toonstorytime.me
   - name: Retro Site.
-    url: https://toonnongaeoy.dino.icu
+    url: http://toonnongaeoy.dino.icu
   - name: Hackclub Scrapbook.
     url: https://scrapbook.toonstorytime.me
   - name: Homelab (Direct)
