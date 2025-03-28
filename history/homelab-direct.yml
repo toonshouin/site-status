@@ -1,7 +1,7 @@
 url: http://storyhouseproduction.duckdns.org
-status: up
-code: 200
-responseTime: 4849
-lastUpdated: 2025-03-28T14:45:01.941Z
+status: down
+code: 401
+responseTime: 500
+lastUpdated: 2025-03-28T14:54:12.785Z
 startTime: 2024-01-03T07:07:00.441Z
 generator: Upptime <https://github.com/upptime/upptime>
