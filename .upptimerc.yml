@@ -1,10 +1,10 @@
 # Change these first
 owner: toonoeichi # Your GitHub organization or username, where this repository lives
-repo: site-uptime # The name of this repository
+repo: site-status # The name of this repository
 
 sites:
   - name: Main Site.
-    url: https://toonstorytime.me
+    url: https://toonshou.in
   - name: Linktree.
     url: https://tree.toonstorytime.me
   - name: Blog Site.
@@ -17,10 +17,6 @@ sites:
     url: https://scrapbook.toonstorytime.me
   - name: Homelab (Direct)
     url: http://storyhouseproduction.duckdns.org
-  - name: Homelab (VPN)
-    check: "tcp-ping"
-    url: vpn.toonstorytime.me
-    port: 1914
   - name: File Server (NAS)
     url: https://cloud.toonstorytime.me
   - name: Bitwarden
