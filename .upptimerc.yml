@@ -1,5 +1,5 @@
 # Change these first
-owner: toonoeichi # Your GitHub organization or username, where this repository lives
+owner: toonshouin # Your GitHub organization or username, where this repository lives
 repo: site-status # The name of this repository
 
 sites:
@@ -29,12 +29,12 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.toonstorytime.me
+  cname: status.toonshou.in
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: "ToonStoryTime (ToonOeichi)'s Status Sites."
-  introTitle: "Welcome to **ToonStoryTime (ToonOeichi)'s Status Sites!**."
-  introMessage: "This status page will show status of all of the sites avaliable in ToonOeichi's Studio and Project that I made. You can check using **this site** or on the [**Github Repository**](https://github.com/toonoeichi/site-uptime) at the top. In the meanwhile, You can have some cookies right here. 🍪🍪"
+  name: "Toonshouin's Status Sites."
+  introTitle: "Welcome to **Toonshouin's Status Sites!**."
+  introMessage: "This status page will show status of all of the sites avaliable in Toonshouin's Studio and Project that I made. You can check using **this site** or on the [**Github Repository**](https://github.com/toonshouin/site-uptime) at the top. In the meanwhile, You can have some cookies right here. 🍪🍪"
   navbar:
     - title: Status
       href: /
