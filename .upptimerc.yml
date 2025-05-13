@@ -12,7 +12,7 @@ sites:
   - name: Resume site.
     url: https://resume.toonshou.in
   - name: Retro Site.
-    url: http://toonnongaeoy.dino.icu
+    url: http://legacy.toonshou.in
   - name: Hackclub Scrapbook.
     url: https://scrapbook.toonstorytime.me
   - name: Homelab (Direct)
@@ -21,6 +21,8 @@ sites:
     url: https://cloud.toonstorytime.me
   - name: Bitwarden
     url: https://pass.aoeyoei.xyz
+  - name: Immich Server
+    url: https://img.toonshou.in
   - name: Bluesky PDS
     url: https://bluesky.toonstorytime.me
   - name: Speedtest (Homelab)
