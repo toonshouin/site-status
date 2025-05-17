@@ -18,7 +18,7 @@ sites:
   - name: Homelab (Direct)
     url: http://storyhouseproduction.duckdns.org
   - name: File Server (NAS)
-    url: https://cloud.toonstorytime.me
+    url: https://files.toonshou.in
   - name: Bitwarden
     url: https://pass.aoeyoei.xyz
   - name: Immich Server
