@@ -24,9 +24,9 @@ sites:
   - name: Immich Server
     url: https://img.toonshou.in
   - name: Bluesky PDS
-    url: https://bluesky.toonstorytime.me
+    url: https://blue.toonshou.in
   - name: Speedtest (Homelab)
-    url: https://speedtest.toonstorytime.me
+    url: https://speed.aoeyoei.xyz
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
