@@ -61,19 +61,19 @@
     "url": "https://card.toonshou.in",
     "icon": "https://icons.duckduckgo.com/ip3/card.toonshou.in.ico",
     "slug": "linktree",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 208,
-    "timeDay": 459,
-    "timeWeek": 250,
-    "timeMonth": 200,
+    "timeDay": 364,
+    "timeWeek": 241,
+    "timeMonth": 199,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2025-10-02": 0
+      "2025-10-02": 9
     }
   },
   {
@@ -276,7 +276,7 @@
     "timeMonth": 3202,
     "timeYear": 2891,
     "dailyMinutesDown": {
-      "2025-10-02": 706,
+      "2025-10-02": 715,
       "2025-10-01": 1440,
       "2025-09-30": 1440,
       "2025-09-29": 1440,
@@ -657,7 +657,7 @@
     "timeMonth": 2065,
     "timeYear": 2726,
     "dailyMinutesDown": {
-      "2025-10-02": 706,
+      "2025-10-02": 715,
       "2025-10-01": 1440,
       "2025-09-30": 1440,
       "2025-09-29": 1440,
@@ -867,7 +867,7 @@
     "timeMonth": 1166,
     "timeYear": 1677,
     "dailyMinutesDown": {
-      "2025-10-02": 706,
+      "2025-10-02": 715,
       "2025-10-01": 1440,
       "2025-09-30": 1440,
       "2025-09-29": 1440,
