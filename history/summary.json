@@ -277,7 +277,7 @@
     "timeMonth": 3065,
     "timeYear": 2897,
     "dailyMinutesDown": {
-      "2025-10-11": 514,
+      "2025-10-11": 527,
       "2025-10-10": 1440,
       "2025-10-09": 1440,
       "2025-10-08": 1440,
@@ -553,13 +553,13 @@
     "url": "http://storyhouseproduction.duckdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/storyhouseproduction.duckdns.org.ico",
     "slug": "homelab-direct",
-    "status": "up",
+    "status": "down",
     "uptime": "98.36%",
-    "uptimeDay": "93.45%",
-    "uptimeWeek": "97.13%",
+    "uptimeDay": "93.43%",
+    "uptimeWeek": "97.24%",
     "uptimeMonth": "97.01%",
     "uptimeYear": "97.10%",
-    "time": 3112,
+    "time": 3115,
     "timeDay": 5031,
     "timeWeek": 4174,
     "timeMonth": 3923,
@@ -622,8 +622,7 @@
       "2025-06-20": 461,
       "2025-06-19": 72,
       "2025-06-13": 16,
-      "2025-06-04": 33,
-      "2025-06-03": 20
+      "2025-06-04": 33
     }
   },
   {
@@ -643,7 +642,7 @@
     "timeMonth": 1051,
     "timeYear": 2687,
     "dailyMinutesDown": {
-      "2025-10-11": 514,
+      "2025-10-11": 527,
       "2025-10-10": 1440,
       "2025-10-09": 1440,
       "2025-10-08": 1440,
@@ -863,7 +862,7 @@
     "timeMonth": 746,
     "timeYear": 1636,
     "dailyMinutesDown": {
-      "2025-10-11": 514,
+      "2025-10-11": 527,
       "2025-10-10": 1440,
       "2025-10-09": 1440,
       "2025-10-08": 1440,
