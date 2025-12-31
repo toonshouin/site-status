@@ -646,7 +646,7 @@
     "timeMonth": 0,
     "timeYear": 2917,
     "dailyMinutesDown": {
-      "2025-12-31": 1052,
+      "2025-12-31": 1066,
       "2025-12-30": 1440,
       "2025-12-29": 1440,
       "2025-12-28": 1440,
@@ -1000,19 +1000,19 @@
     "url": "http://storyhouseproduction.duckdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/storyhouseproduction.duckdns.org.ico",
     "slug": "homelab-direct",
-    "status": "up",
-    "uptime": "99.43%",
-    "uptimeDay": "98.52%",
+    "status": "down",
+    "uptime": "99.48%",
+    "uptimeDay": "98.47%",
     "uptimeWeek": "99.17%",
-    "uptimeMonth": "96.99%",
-    "uptimeYear": "98.87%",
-    "time": 3572,
+    "uptimeMonth": "96.98%",
+    "uptimeYear": "98.96%",
+    "time": 3575,
     "timeDay": 2684,
     "timeWeek": 4562,
     "timeMonth": 4014,
     "timeYear": 3850,
     "dailyMinutesDown": {
-      "2025-12-31": 21,
+      "2025-12-31": 22,
       "2025-12-27": 40,
       "2025-12-25": 22,
       "2025-12-17": 92,
@@ -1060,9 +1060,7 @@
       "2025-08-24": 120,
       "2025-08-23": 22,
       "2025-08-19": 899,
-      "2025-08-18": 148,
-      "2025-08-15": 460,
-      "2025-08-14": 37
+      "2025-08-18": 148
     }
   },
   {
@@ -1082,7 +1080,7 @@
     "timeMonth": 3518,
     "timeYear": 2706,
     "dailyMinutesDown": {
-      "2025-12-31": 1053,
+      "2025-12-31": 1066,
       "2025-12-30": 1440,
       "2025-12-29": 1440,
       "2025-12-28": 1440,
@@ -1423,7 +1421,7 @@
     "timeMonth": 3292,
     "timeYear": 1710,
     "dailyMinutesDown": {
-      "2025-12-31": 1053,
+      "2025-12-31": 1066,
       "2025-12-30": 1440,
       "2025-12-29": 1440,
       "2025-12-28": 1440,
@@ -1862,7 +1860,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/speed.aoeyoei.xyz.ico",
     "slug": "speedtest-homelab",
     "status": "up",
-    "uptime": "57.43%",
+    "uptime": "57.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.91%",
